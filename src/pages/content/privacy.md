@@ -1,60 +1,74 @@
 # Privacy Policy
 
-**Last updated:** November 19, 2025
+**Last updated:** November 20, 2025
 
 ## Data Collection
 
-We collect:
+We collect **anonymous usage data** to help improve Minesweeper Word Hunt. This includes:
 
-- Anonymous usage metrics
+- Gameplay metrics (levels completed, play time, feature usage)
 - App performance data
-- Device information
-- Error reports
+- Anonymous device information (model, iOS version)
+- Crash reports and error diagnostics
 
-Google AdMob:
+This data does **not** include personal information such as names, emails, phone numbers, IP addresses, or advertising identifiers.
 
-- Our App uses Google AdMob to display ads. AdMob may collect certain data necessary to provide, personalize, and measure advertising.
+### Advertising (Google AdMob)
+
+The app uses **Google AdMob** to display ads. AdMob may collect certain device-related or interaction-based data needed to provide, measure, or personalize ads.  
+We do not store or control this data.
+
+For more information, please review Google’s policies:  
+https://policies.google.com/technologies/ads
 
 ## Data Usage
 
-We use collected data to:
+Anonymous gameplay and performance data helps us:
 
-- Improve app performance
-- Fix technical issues
-- Enhance features
-- Optimize experience
+- Improve app stability and performance  
+- Identify and fix technical issues  
+- Balance gameplay  
+- Make informed decisions about features and in-app purchase options  
+- Improve the user experience  
+
+No personal profiles are created, and no data is used for tracking across apps or websites.
 
 ## Security Measures
 
-We protect your data with:
+We take reasonable steps to protect all collected data, including:
 
-- Encryption protocols
-- Regular security checks
-- Secure storage systems
+- Secure transmission of analytics and crash reports  
+- Limiting data to anonymous, non-identifiable information  
+- Regular reviews of third-party services for compliance  
 
-## Data Sharing Policy
+We do not maintain any user accounts or personal data repositories.
 
-We do not sell your data. We share data only:
+## Data Sharing
 
-- With essential services
-- When legally required
-- When you request it
+We do **not** sell personal data.
+
+Anonymous analytics and crash reports may be shared only with trusted service providers such as:
+
+- Analytics platforms  
+- Crash reporting services  
+- Advertising partners (e.g., Google AdMob)
+
+These services use the data solely to support app functionality and performance.
 
 ## User Rights
 
-You can:
+Since we do not collect personal data, there is no personal information to access, modify, or delete.
 
-- View your data
-- Delete your data
-- Stop analytics
-- Download your data
+You may disable personalized advertising through your device settings:
+
+**iOS:**  
+Settings → Privacy & Security → Tracking
 
 ## Policy Updates
 
-We will notify you of policy changes through our app or email.
+If we make significant changes to this policy, we will update this page and reflect the change in our App Store listing.
 
 ## Contact
 
-Questions? Reach us at:
-
-- support@searlestreet.com
+If you have any questions about this policy, contact us at:  
+**support@searlestreet.com**
