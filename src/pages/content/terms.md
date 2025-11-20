@@ -29,6 +29,6 @@ Do not:
 
 ## Contact
 
-- Email: legal@searlestreet.com
+- [Contact us](/contact)
 - Address: 8 the grn ste a Dover, DE 19901
 

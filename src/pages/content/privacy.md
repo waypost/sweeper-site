@@ -70,5 +70,4 @@ If we make significant changes to this policy, we will update this page and refl
 
 ## Contact
 
-If you have any questions about this policy, contact us at:  
-**support@searlestreet.com**
+If you have any questions about this policy, [contact us](/contact).
