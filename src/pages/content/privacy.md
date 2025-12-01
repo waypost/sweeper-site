@@ -13,6 +13,8 @@ We collect **anonymous usage data** to help improve Minesweeper Word Hunt. This 
 
 This data does **not** include personal information such as names, emails, phone numbers, IP addresses, or advertising identifiers.
 
+<!--
+
 ### Advertising (Google AdMob)
 
 The app uses **Google AdMob** to display ads. AdMob may collect certain device-related or interaction-based data needed to provide, measure, or personalize ads.  
@@ -20,6 +22,7 @@ We do not store or control this data.
 
 For more information, please review Google’s policies:  
 https://policies.google.com/technologies/ads
+-->
 
 ## Data Usage
 
