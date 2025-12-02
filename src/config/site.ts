@@ -6,7 +6,7 @@ export const siteConfig = {
 	keywords: ["mobile app", "landing page", "astro", "react", "typescript"],
 	logo: "/assets/favicon.png",
 	storeLinks: {
-		apple: "#",
+		apple: "https://apps.apple.com/us/app/minesweeper-word-hunt/id6749333663",
 		google: "#",
 	},
 	socialLinks,
